@@ -1,4 +1,4 @@
-"# EECS731_Project5_World-Wide-Products-Inc." 
+# EECS731_Project5_World-Wide-Products-Inc.
 
 Context
 
